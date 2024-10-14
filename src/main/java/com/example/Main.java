@@ -25,6 +25,7 @@ public class Main {
             System.out.println("String ricevuta: " + stringInput);
         }while(outputString != "!");
         sc.close();
-        mySocket.close();//172.21.228.134
+        mySocket.close();
+        //172.21.228.134
     }
 }
